@@ -1,0 +1,3 @@
+ToDo App (ReactJS)
+A basic ToDo app made with ReactJS to practice handling state, user input, and component-based UI.
+This was one of my first React projects — a simple list where you can add and (hopefully) remove tasks. I got the core idea down, but didn’t take it all the way to full functionality. Some concepts were still a bit fuzzy back then, especially around updating state cleanly and organizing components.

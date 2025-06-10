@@ -1,0 +1,3 @@
+Weather App (ReactJS)
+A simple weather app built with ReactJS to fetch and display current weather data for any city using an external API.
+This project was part of my effort to learn how to work with APIs and state management in React. I didn’t fully finish it — some things didn’t quite click yet, especially around handling async data and managing components cleanly.
